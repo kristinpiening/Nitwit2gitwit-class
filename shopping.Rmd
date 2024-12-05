@@ -13,4 +13,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - 12 eggs
 - 500g flour
- - 3 milk
+- 3 milk
+- bread
